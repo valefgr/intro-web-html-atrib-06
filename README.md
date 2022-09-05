@@ -17,6 +17,6 @@ Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directo
 3. Agrega la clase “css-exp” al <div> que contiene las explicaciones sobre css.
 4. Agrega la clase “js-exp” al <div> que contiene las explicaciones sobre javascript.
 5. Guarda tus cambios (Archivo > Guardar)
-6. Abre tu archivo html en el navegador y verifica que puedas ver el texto que agregaste.
+6. Abre tu archivo html en el navegador y verifica que puedas ver el contenido del documento. Por ahora, agregar las clases a los divs no tendrá ningún efecto en tu sitio web. Sin embargo, más adelante en el curso cuando aprendas sobre CSS, podrás agregar estilos a estas clases 🎨 
 7. Sube tus cambios a Github y envía por Canvas el enlace a tu repositorio.
 
